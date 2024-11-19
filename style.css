@@ -1,0 +1,235 @@
+.number{
+    display: flex;
+    background-color:#A1252F ;
+    padding: 8px;
+    justify-content: center;
+    color: white;
+    font-size: x-large;
+}
+.whatsapp{
+    font-size: 120px;
+    position: fixed;
+    margin-top: 40%;
+    margin-left: 87%;
+    color: darkgreen;
+    border: 1px solid black;
+    border-radius: 30px;
+    background-color: white;
+    border: none;
+
+
+    a{
+        color: green;
+    }
+    
+}
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #F7FAFC;
+}
+.logo{
+    width: 100px;
+    height: 100px;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    padding: 2em;
+    border: 1px solid white;
+    background-color: #F7FAFC;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+.nav-links{
+    display: flex;
+    list-style-type: none;
+    gap: 2em;
+    font-size: x-large;
+
+}
+.nav-links li a{
+    text-decoration: none;
+    color: black;
+}
+.btn{
+    transform: scale(1.5);
+    margin-top: 35px;  
+}
+button{
+    background-color: #A1252F;
+    border: none;
+    padding: 6px;
+    border-radius: 2px;
+    margin-right: 2em;
+    color: white;
+    }
+ #head{
+   justify-content: center;
+   display: flex;
+   color: #F7FAFC;
+   margin-top: 5em;
+} 
+h1{
+    justify-content: center;
+   display: flex;
+   color: #F7FAFC;
+   font-size: 50px;
+  
+} 
+.bt{
+    justify-content: center;
+    transform: scale(1.5);
+     margin-left: 45%;
+     margin-top: 5em;
+     background-color:white;
+     color: #A1252F;
+    
+}
+.container{
+    border: 2px solid #A1252F;
+    height: 450px;
+    width: 1200px;
+    justify-content: center;
+    background-color: #A1252F;
+    border-radius: 15px;
+    margin-left: 15%;
+    margin-top: 3em;
+    
+}
+.first{
+    border: 1px solid #F7FAFC;
+    background-image: url(https://lh3.googleusercontent.com/pw/ABLVV87BgCIkDhc7FIW8D5lc-5GcB_lBNVgIXEg22ZcSowXk4oCSlClw4HEMCOwRvPFo5tOsbGkpnAQM-rQ8XSwzpJgEuaMwfgtKwlzismqbcv4Q4bcLBFHPxm9knr9smXMLbXvjaYy9p8YeP12XXO--6Khj=w1196-h897-s-no-gm?authuser=0);
+    height: 500px;
+    background-position: center;
+    opacity: 0.9;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 3em;
+    background-color: #CDCECF;
+    display: flex;
+    position: relative;
+   
+    
+
+
+
+}
+.container2 h3,p {
+    color: black;
+    justify-content: center;
+    display: flex;
+    
+}
+h3{
+    font-size: xx-large;
+}
+p{
+    font-size: 20px;
+}
+.main{
+  display: flex;  
+}
+.CourseSections{
+    border: 3px solid #EFF2F4;
+    height: 400px;
+    width: 600px;
+    text-align: center;
+    border-radius: 20px;
+    margin-top: 10%;
+    margin-left: 10%;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+   
+   }
+   #was{
+       font-size: 100px;
+       border-radius: 30px;
+       margin-left: 35%;
+       margin-top: 5%;
+   }
+   #they{
+       text-decoration-line: none;
+       color: #A1252F;
+       margin-bottom: 30%;
+       font-size: x-large;
+       
+   }
+.CourseSection{
+ border: 3px solid #EFF2F4;
+ height: 400px;
+ width: 600px;
+ margin-top: 10%;
+ text-align: center;
+ border-radius: 20px;
+margin-left: 10%;
+box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+ 
+ 
+}
+#you{
+   
+    font-size: 100px;
+    border-radius: 30px;
+    margin-left: 35%;
+    margin-top: 5%;
+}
+#meta{
+    
+    text-decoration-line: none;
+    color: #A1252F;
+    margin-bottom: 10px;
+    font-size: x-large;
+}
+.main2{
+    display: flex;
+    margin-top: 8%;
+}
+#how{
+    width: 842px;
+    height: 600px;
+   
+}
+.right{
+    background-image: url(https://lh3.googleusercontent.com/pw/ABLVV85iAtcX4FzdF7fUHXR_zivxuX6PWRU4J3_VJIfHYxEXVhLYkNPJcqxgr7yYG9ORpMAKBtgCpGIOwD18tYcOuu_ydTVw2chF0cQf7Uh91Sbdhy5ati2sIC7otUoaCwicgHOI6nGBj-EX6UT670enQe7G=w1269-h897-s-no-gm?authuser=0);
+ 
+   width: 842px;
+   height: 600px;
+    gap: 0.8em;
+   color: white;
+}
+.right h2 {
+    font-size: 35px;
+    font-weight: bold;
+    margin-left: 1em;
+    margin-top: 1em;
+    
+}
+.wive .home h3{
+font-size: 25px;
+font-weight: bold;
+text-align: center;
+
+}
+.wive .home p{
+    color: white;
+    text-align: center;
+    margin: 0;
+}
+#hart{
+    margin-right: 40%;
+}
+.fa{
+    
+    font-size: xx-large;
+
+}
+
+
+  
+
+
+
+
+
+  
+
+
