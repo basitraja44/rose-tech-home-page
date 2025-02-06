@@ -7,10 +7,10 @@
     font-size: x-large;
 }
 .whatsapp{
-    font-size: 120px;
+    font-size: 64px;
     position: fixed;
-    margin-top: 40%;
-    margin-left: 87%;
+    top: 75%;
+    left: 80%;
     color: darkgreen;
     border: 1px solid black;
     border-radius: 30px;
@@ -39,6 +39,7 @@ nav{
     border: 1px solid white;
     background-color: #F7FAFC;
     box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    flex-wrap: wrap;
 }
 .nav-links{
     display: flex;
@@ -222,12 +223,6 @@ text-align: center;
     font-size: xx-large;
 
 }
-
-
-  
-
-
-
 
 
   
